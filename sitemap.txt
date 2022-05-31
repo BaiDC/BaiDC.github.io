@@ -1,2 +1,7 @@
-http://example.com/2022/05/31/hello-world/
-http://example.com/
+http://baidc.github.io/friends/index.html
+http://baidc.github.io/contact/index.html
+http://baidc.github.io/about/index.html
+http://baidc.github.io/tags/index.html
+http://baidc.github.io/categories/index.html
+http://baidc.github.io/2022/05/31/hello-world/
+http://baidc.github.io/
